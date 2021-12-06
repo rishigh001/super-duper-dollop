@@ -6,7 +6,7 @@
 ###### Heading 6
 *Italic*
 
-~~This is strike through
+~~This is strike through~~
 
 **Bold**
 
