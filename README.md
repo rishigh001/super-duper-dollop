@@ -6,6 +6,8 @@
 ###### Heading 6
 *Italic*
 
+~~This is strike through
+
 **Bold**
 
 ***Bold And Italic***
@@ -23,10 +25,14 @@
 
 [Github](https://github.com/)
 
-![Lion](https://cdn.pixabay.com/photo/2018/07/31/22/08/lion-3576045_960_720.jpg)
+# Akhanda
+
+<img src="https://cdn.pixabay.com/photo/2018/07/31/22/08/lion-3576045_960_720.jpg" alt=lion width="480">
 
 S.No|Name|Details
 ----|----|-------
-1|Audi|Car
-2|Truimph|Motorcycle
-3|Google|Company
+1|Lion|King
+2|Tiger|Fierce
+3|Jackal|Cunning
+
+@Rishi: Classic :sunglasses: :love_you_gesture:
