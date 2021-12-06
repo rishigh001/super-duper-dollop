@@ -33,6 +33,6 @@ S.No|Name|Details
 ----|----|-------
 1|Lion|King
 2|Tiger|Fierce
-3|Jackal|Cunning
+3|Jackal|Cunning 
 
 @Rishi: Classic :sunglasses: :love_you_gesture:
